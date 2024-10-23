@@ -9,3 +9,4 @@ Those are the steps you should take to run it successfully:
 7. There are two options on how to drive the robot: by pretty much any analog controller that supports USB protocol or by the trajectory planning. Whatever your option is, make sure that the second is fully commented, otherwise you'll uncover the secret feature of this simultaion;
 8. Note that in order to control the robot via analog controller you have to maintane the connection to your device or the simulation will stop;
 9. hit the f5 button or the green arrow and have fun with it.
+10. when the simulation begins, right click on the simulation window and change convention such that the Y-axis facing upwards (Y-up XY front). Also consider selecting isometric view as the standard view. 
