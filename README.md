@@ -12,4 +12,5 @@ Those are the steps you should take to run it successfully:
 10. when the simulation begins, right click on the simulation window and change convention such that the Y-axis facing upwards (Y-up XY front). Also consider selecting isometric view as the standard view. 
 
 E-mail me at gorindenis2k@gmail.com for your feedback is greatly appreciated.
+
 I've added the "AssemBinzel.slx.r2020b" simulink file just in case you have older version.
